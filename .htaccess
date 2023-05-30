@@ -1,4 +1,4 @@
 AuthType basic 
-AuthName "My Protected Folder" 
-AuthUserFile https://tasenboss.github.io/passtest/.htpasswd 
+AuthName "No School Moderators" 
+AuthUserFile ".htpasswd" 
 require valid-user
