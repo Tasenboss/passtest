@@ -1,4 +1,4 @@
 AuthType Basic 
 AuthName "My Protected Folder" 
-AuthUserFile ../../.htpasswd 
+AuthUserFile https://tasenboss.github.io/passtest/.htpasswd 
 require valid-user
